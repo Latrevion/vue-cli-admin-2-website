@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_admin_2"]=self["webpackChunkvue_cli_admin_2"]||[]).push([[281],{7281:function(n,u,e){e.r(u),e.d(u,{default:function(){return r}});var i=function(){var n=this,u=n._self._c;return u("div",{staticClass:"min-body"},[n._v("文件")])},t=[],l={},s=l,c=e(1001),a=(0,c.Z)(s,i,t,!1,null,"35d1e317",null),r=a.exports}}]);
+//# sourceMappingURL=281.22658d97.js.map
